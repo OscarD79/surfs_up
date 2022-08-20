@@ -14,10 +14,12 @@ Using the data gathered regarding temperatures in June and December there are th
 
 * The maximum temperatures are only 2 degrees different in each month. Which indicates that there is no month that will have considerably higher heat.
 
-Please see the raw data below.
+Please see the raw data below.<br>
 
-![june_temp_summary_stats.png](./Images/june_temp_Summary_stats.png)
+![june_temp_summary_stats.png](./Images/june_temp_summary_stats.png)
 
-![december_temp_summary_stats.png](./Images/december_temp_Summary_stats.png)
+![december_temp_summary_stats.png](./Images/december_temp_summary_stats.png)
 
 ### Weather Summary 
+
+
