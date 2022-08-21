@@ -17,9 +17,23 @@ Using the data gathered regarding temperatures in June and December there are th
 Please see the raw data below.<br>
 
 ![june_temp_summary_stats.png](./Images/june_temp_summary_stats.png)
+<br>
 
 ![december_temp_summary_stats.png](./Images/december_temp_summary_stats.png)
 
-### Weather Summary 
+## Weather Summary 
 
+## June Temperatures
+In June the average temperature was 75° F. 
+The minimum temperature was 64° F.
+The maximum temperature was 85° F.
 
+![june_temps_hist.png](./Images/june_temps_hist.png)
+<br>
+
+## December Temperatures
+In December the average temperature was 71° F. 
+The minimum temperature was 56° F.
+The maximum temperature was 83° F.
+
+![december_temps_hist.png](./Images/december_temps_hist.png)
