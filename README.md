@@ -10,7 +10,7 @@ Using the data gathered regarding temperatures in June and December there are th
 
 * The difference between the mean temperatures is only 5 degrees. Which is an indicator that weather does not fluctuate very much between seasons.
 
-* The minimum temperatures in June and December are 10 degrees and 15 degrees lower than the mean, respectively. Which indicates that December will on somedays be considerably colder than June in some instances.
+* The minimum temperatures in June and December are 10 degrees and 15 degrees lower than the mean, respectively. Which indicates that December will, on somedays, be considerably colder than June.
 
 * The maximum temperatures are only 2 degrees different in each month. Which indicates that there is no month that will have considerably higher heat.
 
